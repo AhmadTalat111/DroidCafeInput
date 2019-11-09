@@ -1,0 +1,4 @@
+#Fri Nov 08 07:37:56 EET 2019
+base.0=D\:\\kotlin\\portfolio\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
