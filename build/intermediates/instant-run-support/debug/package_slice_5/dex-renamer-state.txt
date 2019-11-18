@@ -1,4 +1,4 @@
-#Sat Nov 09 11:52:45 EET 2019
+#Mon Nov 18 22:54:40 EET 2019
 base.0=D\:\\kotlin\\portfolio\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
 path.0=classes.dex
 renamed.0=classes.dex
